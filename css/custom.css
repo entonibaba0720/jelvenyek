@@ -3,3 +3,96 @@ body {
     padding-top: 50px;
     padding-bottom: 20px;
   }
+
+.jumbotron{
+  background-color: white;
+  background: url(../image/pins.jpg) no-repeat right;
+  margin-right: 20%;
+}
+.container h1, .jumbotron p {
+   text-align: left;
+   margin-left: 20%;
+ }
+
+ .col-md-6 h2 {
+   padding-bottom: 1em;
+ }
+
+ .col-md-6 {
+   padding-bottom: 2em;
+ }
+
+ .col-md-12 {
+   height: 3em;
+   font-size: 2rem;
+   text-align: center;
+   padding-top: 1em;
+   padding-bottom: 1em;
+   margin-bottom: 2em;
+ }
+
+ hr {
+   border: 1px solid #2d568d;
+ }
+
+ .hope p {
+   text-align: center;
+ }
+
+ footer p {
+   text-align: center;
+ }
+
+ /* kapcsolat */
+
+ .form {
+   width: 60%;
+   margin: 30px auto;
+   background-color: rgb(245, 245, 245);
+   border: 1px solid rgb(245, 245, 245);
+   padding: 3%;
+ }
+
+ .form p {
+   font-size: 2rem;
+   text-align: center;
+ }
+
+ .btn {
+   margin: 5%;
+   margin-left: 45%;
+ }
+
+ .price-table h1 {
+   text-align: center;
+   padding-top: 20px;
+ }
+
+ .table {
+   width: 90%;
+   margin: 50px auto;
+   border: 1px solid gray;
+ }
+
+ .table td {
+   text-align: center;
+   border: 1px solid gray;
+ }
+
+ .table thead, .table th {
+   background-color: gray;
+ }
+
+ .price-table p {
+   font-size: 2rem;
+   text-align: center;
+ }
+
+ .phone p {
+   line-height: 3rem;
+   font-size: 2.5rem;
+ }
+
+ .phone {
+   padding-bottom: 2rem;
+ }
